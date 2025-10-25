@@ -51,13 +51,7 @@ jobs:
         
         sed -i "s/channel_stats_chart\.svg?v=[0-9]*/channel_stats_chart.svg?v=$timestamp/" README_FA.md
         sed -i "s/performance_report\.html?v=[0-9]*/performance_report.html?v=$timestamp/" README_FA.md
-        
-        sed -i "s/channel_stats_chart\.svg?v=[0-9]*/channel_stats_chart.svg?v=$timestamp/" README_CN.md
-        sed -i "s/performance_report\.html?v=[0-9]*/performance_report.html?v=$timestamp/" README_CN.md
-        
-        sed -i "s/channel_stats_chart\.svg?v=[0-9]*/channel_stats_chart.svg?v=$timestamp/" README_RU.md
-        sed -i "s/performance_report\.html?v=[0-9]*/performance_report.html?v=$timestamp/" README_RU.md
-    
+
     - name: Setup Git
       run: |
         git config --global user.name 'github-actions[bot]'
@@ -72,7 +66,5 @@ jobs:
         git add assets/performance_report.html
         git add README.md
         git add README_FA.md
-        git add README_CN.md
-        git add README_RU.md
         git commit -m "Update proxy configs, stats and reports" || echo "No changes to commit"
         git push
