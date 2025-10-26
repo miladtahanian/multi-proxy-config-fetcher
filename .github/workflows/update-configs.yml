@@ -1,13 +1,10 @@
 name: Update Proxy Configs
 
-<<<<<<< Updated upstream
-=======
 on:
   schedule:
     - cron: '0 0 */3 * *'
   workflow_dispatch:
 
->>>>>>> Stashed changes
 permissions:
   contents: write
 
