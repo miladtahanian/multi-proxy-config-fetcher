@@ -108,6 +108,9 @@ jobs:
         sed -i "s/performance_report\.html?v=[0-9]*/performance_report.html?v=$timestamp/" README_RU.md
     
     - name: Commit and push changes
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       run: |
         git config --global user.name 'github-actions[bot]'
