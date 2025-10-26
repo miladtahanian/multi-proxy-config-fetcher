@@ -1,8 +1,8 @@
-[![Stars](https://img.shields.io/github/stars/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/stargazers)
-[![Forks](https://img.shields.io/github/forks/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/network/members)
-[![Issues](https://img.shields.io/github/issues/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/issues)
-[![License](https://img.shields.io/github/license/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/LICENSE)
-[![Activity](https://img.shields.io/github/last-commit/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/commits)
+[![Stars](https://img.shields.io/github/stars/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/stargazers)
+[![Forks](https://img.shields.io/github/forks/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/network/members)
+[![Issues](https://img.shields.io/github/issues/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/issues)
+[![License](https://img.shields.io/github/license/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/LICENSE)
+[![Activity](https://img.shields.io/github/last-commit/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/commits)
 
 <div dir="rtl">
 
@@ -14,17 +14,24 @@
 
 ## دسترسی سریع به پیکربندی‌ها
 
-شما می‌توانید مستقیماً از طریق این URL به آخرین پیکربندی‌ها دسترسی پیدا کنید:
+شما می‌توانید مستقیماً از طریق این URL به آخرین پیکربندی‌های v2ray/Xray دسترسی پیدا کنید:
 ```
-https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
 ```
 این پروژه دارای قابلیت‌های پیشرفته‌ای برای مدیریت کانفیگ‌های پروکسی است. کانفیگ‌های دریافت شده به صورت خودکار به فرمت Sing-box تبدیل می‌شوند و در یک فایل JSON جداگانه ذخیره می‌شوند. برای هر سرور، موقعیت جغرافیایی آن با استفاده از متد get location شناسایی شده و به صورت خودکار ایموجی پرچم و نام کشور مربوطه به تگ آن اضافه می‌شود. این ویژگی‌ها باعث می‌شود مدیریت و استفاده از پروکسی‌ها برای کاربران بسیار ساده‌تر شود.
 
-لینک اشتراک Sing-box:
-```
-https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
-```
+این پروژه اکنون شامل آخرین هسته سینگ‌باکس برای **تست و بررسی سلامت پیکربندی‌ها** به صورت **بلادرنگ** است.
 
+### پیکربندی‌های Sing-box (همه)
+از طریق این آدرس به تمام پیکربندی‌های تبدیل شده به فرمت Sing-box دسترسی پیدا کنید:
+```
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_all.json
+```
+### پیکربندی‌های Sing-box (تست شده و سالم)
+از طریق این آدرس به پیکربندی‌هایی که با استفاده از هسته سینگ‌باکس، بررسی سلامت بلادرنگ را با موفقیت پشت سر گذاشته‌اند، دسترسی پیدا کنید:
+```
+https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json
+```
 ## عملکرد کانال‌ها و URL‌ها
 
 در زیر، آمار عملکرد بلادرنگ منابع پیکربندی شده (کانال‌های تلگرام و سایر URL‌ها) را مشاهده می‌کنید. این نمودار هر ساعت به‌طور خودکار به‌روزرسانی می‌شود.
@@ -37,7 +44,7 @@ https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/
 </div>
 
 ### گزارش تفصیلی
-📊 [مشاهده داشبورد تعاملی کامل](https://htmlpreview.github.io/?https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [مشاهده داشبورد تعاملی کامل](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **نکته مهم برای مخازن فورک شده**:  
 اگر این مخزن را فورک می‌کنید، حتماً `USERNAME` را در لینک بالا با نام کاربری گیت‌هاب خود جایگزین کنید. این کار اطمینان می‌دهد که لینک به داشبورد تعاملی مخزن شما به جای داشبورد پروژه اصلی هدایت می‌شود. برای این کار:
@@ -81,6 +88,9 @@ https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/
 - نظارت بلادرنگ بر عملکرد منابع
 - مدیریت خودکار سلامت منابع
 - متعادل‌سازی پویای توزیع پروتکل‌ها
+- تست پیکربندی با هسته Sing-box
+- شناسایی موقعیت جغرافیایی سرورها
+- افزودن خودکار ایموجی پرچم و نام کشور
 
 ## راه‌اندازی
 
@@ -93,7 +103,7 @@ https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/
 
 ```bash
 # کلون کردن مخزن
-git clone https://github.com/miladtahanian/multi-proxy-config-fetcher.git
+git clone https://github.com/4n0nymou3/multi-proxy-config-fetcher.git
 cd multi-proxy-config-fetcher
 
 # نصب وابستگی‌ها
@@ -127,10 +137,17 @@ python src/fetch_configs.py
 ├── src/
 │   ├── config.py              # پیکربندی پروژه
 │   ├── config_validator.py    # اعتبارسنجی و تأیید پیکربندی
-│   └── fetch_configs.py       # پیاده‌سازی اصلی دریافت‌کننده
+│   ├── fetch_configs.py       # پیاده‌سازی اصلی دریافت‌کننده
+│   ├── config_to_singbox.py   # مبدیل فرمت Sing-box
+│   └── config_tester.py       # تست‌کننده پیکربندی
 ├── configs/
-│   ├── proxy_configs.txt      # پیکربندی‌های خروجی
+│   ├── proxy_configs.txt      # پیکربندی‌های خام پراکسی
+│   ├── singbox_configs_all.json    # تمام پیکربندی‌های Sing-box
+│   ├── singbox_configs_tested.json # پیکربندی‌های تست شده Sing-box
 │   └── channel_stats.json     # آمار عملکرد منابع
+├── assets/
+│   ├── channel_stats_chart.svg     # نمودار عملکرد
+│   └── performance_report.html     # داشبورد تعاملی
 └── .github/
     └── workflows/
         └── update-configs.yml # گردش کار GitHub Actions
@@ -152,7 +169,5 @@ python src/fetch_configs.py
 
 ## درباره توسعه‌دهنده
 
-توسعه یافته توسط **Milad Tahanian**.  
-برای اطلاعات بیشتر یا تماس با توسعه‌دهنده، از [پروفایل Github)](https://github.com/miladtahanian) دیدن کنید.
-
-</div>
+توسعه یافته توسط **4n0nymou3**.  
+برای اطلاعات بیشتر یا تماس با توسعه‌دهنده، از [پروفایل X (توییتر)](https://x.com/4n0nymou3) دیدن کنید.

@@ -3,8 +3,9 @@ import os
 from datetime import datetime
 
 def generate_basic_svg(stats_data):
+    channels = stats_data.get('channels', [])
     width = 800
-    height = len(stats_data['channels']) * 50 + 100
+    height = len(channels) * 50 + 100
     
     svg = f'''<?xml version="1.0" encoding="UTF-8"?>
     <svg width="{width}" height="{height}" version="1.1" xmlns="http://www.w3.org/2000/svg">
@@ -14,7 +15,7 @@ def generate_basic_svg(stats_data):
     </style>
     <text x="400" y="40" text-anchor="middle" font-size="20px" font-weight="bold" fill="#64748b">Channel Performance Overview</text>'''
     
-    for idx, channel in enumerate(stats_data['channels']):
+    for idx, channel in enumerate(channels):
         y = 80 + (idx * 50)
         name = channel['url'].split('/')[-1]
         score = channel['metrics']['overall_score']
@@ -35,6 +36,14 @@ def generate_basic_svg(stats_data):
     return svg
 
 def generate_html_report(stats_data):
+    channels = stats_data.get('channels', [])
+    total_channels = len(channels)
+    active_channels_count = sum(1 for c in channels if c['enabled'])
+    total_valid_configs = sum(c['metrics']['valid_configs'] for c in channels)
+    
+    avg_success_rate = (sum((c['metrics']['success_count']/(max(1, c['metrics']['success_count'] + c['metrics']['fail_count'])))*100 for c in channels) / max(1, total_channels))
+    avg_response_time = (sum(c['metrics']['avg_response_time'] for c in channels) / max(1, total_channels))
+    
     html = f'''<!DOCTYPE html>
     <html>
     <head>
@@ -47,7 +56,7 @@ def generate_html_report(stats_data):
         <div class="max-w-7xl mx-auto p-4 sm:p-6 lg:p-8">
             <header class="bg-white rounded-lg shadow-lg p-6 mb-8">
                 <h1 class="text-3xl font-bold text-gray-900 text-center">Proxy Channel Performance Dashboard</h1>
-                <p class="text-center text-gray-600 mt-2">Last Updated: {stats_data['timestamp']}</p>
+                <p class="text-center text-gray-600 mt-2">Last Updated: {stats_data.get('timestamp', 'N/A')}</p>
                 <div class="mt-6 bg-blue-50 rounded-lg p-4 flex flex-col items-center justify-center">
                     <h2 class="text-lg font-semibold text-blue-800">Developer Information</h2>
                     <div class="flex items-center space-x-6 mt-2">
@@ -77,29 +86,29 @@ def generate_html_report(stats_data):
                 <div class="bg-white rounded-lg shadow-lg p-6">
                     <h3 class="text-lg font-semibold text-gray-700 mb-4">Active Channels</h3>
                     <div class="text-3xl font-bold text-blue-600">
-                        {sum(1 for c in stats_data['channels'] if c['enabled'])}
-                        <span class="text-sm font-normal text-gray-500">/ {len(stats_data['channels'])}</span>
+                        {active_channels_count}
+                        <span class="text-sm font-normal text-gray-500">/ {total_channels}</span>
                     </div>
                 </div>
 
                 <div class="bg-white rounded-lg shadow-lg p-6">
                     <h3 class="text-lg font-semibold text-gray-700 mb-4">Total Valid Configs</h3>
                     <div class="text-3xl font-bold text-green-600">
-                        {sum(c['metrics']['valid_configs'] for c in stats_data['channels'])}
+                        {total_valid_configs}
                     </div>
                 </div>
 
                 <div class="bg-white rounded-lg shadow-lg p-6">
                     <h3 class="text-lg font-semibold text-gray-700 mb-4">Average Success Rate</h3>
                     <div class="text-3xl font-bold text-yellow-600">
-                        {sum((c['metrics']['success_count']/(max(1, c['metrics']['success_count'] + c['metrics']['fail_count'])))*100 for c in stats_data['channels'])/len(stats_data['channels']):.1f}%
+                        {avg_success_rate:.1f}%
                     </div>
                 </div>
 
                 <div class="bg-white rounded-lg shadow-lg p-6">
                     <h3 class="text-lg font-semibold text-gray-700 mb-4">Average Response Time</h3>
                     <div class="text-3xl font-bold text-purple-600">
-                        {sum(c['metrics']['avg_response_time'] for c in stats_data['channels'])/len(stats_data['channels']):.2f}s
+                        {avg_response_time:.2f}s
                     </div>
                 </div>
             </div>
@@ -121,7 +130,7 @@ def generate_html_report(stats_data):
                         </thead>
                         <tbody class="bg-white divide-y divide-gray-200">'''
 
-    for channel in sorted(stats_data['channels'], key=lambda x: x['metrics']['overall_score'], reverse=True):
+    for channel in sorted(channels, key=lambda x: x['metrics']['overall_score'], reverse=True):
         success_rate = (channel['metrics']['success_count'] / 
                        max(1, channel['metrics']['success_count'] + channel['metrics']['fail_count'])) * 100
         
@@ -173,6 +182,9 @@ def main():
         with open('configs/channel_stats.json', 'r') as f:
             stats_data = json.load(f)
         
+        if not stats_data:
+            stats_data = {"channels": [], "timestamp": datetime.now().isoformat()}
+
         os.makedirs('assets', exist_ok=True)
         
         svg_content = generate_basic_svg(stats_data)
@@ -185,6 +197,8 @@ def main():
         
         print("Successfully generated chart and report!")
         
+    except FileNotFoundError:
+        print("Error: configs/channel_stats.json not found. Skipping chart generation.")
     except Exception as e:
         print(f"Error generating outputs: {str(e)}")
 

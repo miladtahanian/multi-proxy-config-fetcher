@@ -3,127 +3,18 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
-    "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
-    "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
-    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
-    "https://raw.githubusercontent.com/kayhgng/v2raykayh/refs/heads/main/kayhgngcollectorv3v2ray_ss",
-    "https://shadowmere.xyz/api/b64sub/",
-    "https://t.me/s/ShadowsocksM",
-    "https://t.me/s/V2ray_Alpha",
-    "https://t.me/s/VlessConfig",
-    "https://t.me/s/v2rayngvpn",
-    "https://t.me/s/An0nymousTeam",
-    "https://t.me/s/oneclickvpnkeys",
-    "https://t.me/s/CaV2ray",
-    "https://t.me/s/ELiV2RAY",
-    "https://t.me/s/MehradLearn",
-    "https://t.me/s/Outline_Vpn",
-    "https://t.me/s/SafeNet_Server",
-    "https://t.me/s/VPN_KING_V2RAY",
-    "https://t.me/s/ipV2Ray",
-    "https://t.me/s/lrnbymaa",
-    "https://t.me/s/proxy_kafee",
-    "https://t.me/s/proxy_mtm",
-    "https://t.me/s/v2rayNG_VPNN",
-    "https://t.me/s/tv2rayrr",
-    "https://t.me/s/V2rey_Hiddify",
-    "https://t.me/s/server_nekobox",
-    "https://t.me/s/V2rayNGn",
-    "https://t.me/s/v2raying",
-    "https://t.me/s/s0013_Official",
-    "https://t.me/s/V2RAYROZ",
-    "https://t.me/s/V2rayNG_Outlinee",
-    "https://t.me/s/sinavm",
-    "https://t.me/s/customv2ray",
-    "https://t.me/s/fastkanfig",
-    "https://t.me/s/vpnstorefast",
-    "https://t.me/s/Hope_Net",
-    "https://t.me/s/oxnet_ir",
-    "https://t.me/s/CryptoGuardVPN",
-    "https://t.me/s/freeiranianv2rey",
-    "https://t.me/s/ernoxin_shop",
-    "https://t.me/s/DarkVPNpro",
-    "https://t.me/s/Free_Vpn_for_All_of_Us",
-    "https://t.me/s/NoForcedHeaven",
-    "https://t.me/s/v2raybaz",
-    "https://t.me/s/freedomofinfor",
-    "https://t.me/s/Vpnstable",
-    "https://t.me/s/orange_vpns",
-    "https://t.me/s/amirtronic",
-    "https://t.me/s/kb_v2ray_store",
-    "https://t.me/s/FreeVPNHomesConfigs",
-    "https://t.me/s/Ahmedhamoomi_Servers",
-    "https://t.me/s/V2ray_nima02",
-    "https://t.me/s/ISVvpn",
-    "https://t.me/s/proSSH",
-    "https://t.me/s/v2ray_hub1",
-    "https://t.me/s/GrizzlyVPN",
-    "https://t.me/s/BESTFORBEST66",
-    "https://t.me/s/curetech",
-    "https://t.me/s/v2Source",
-    "https://t.me/s/GetConfigIR",
-    "https://t.me/s/Parsashonam",
-    "https://t.me/s/ArV2ray",
-    "https://t.me/s/configfa",
-    "https://t.me/s/Change_IP1",
-    "https://t.me/s/VPNCUSTOMIZE",
-    "https://t.me/s/Suevpnx",
-    "https://t.me/s/Nfastvpnn",
-    "https://t.me/s/napsternetv",
-    "https://t.me/s/Alpha_V2ray_Iran",
-    "https://t.me/s/vpn_proxy666",
-    "https://t.me/s/xsfilternet",
-    "https://t.me/s/Hiidify_V2ray",
-    "https://t.me/s/ConfigWireguard",
-    "https://t.me/s/WireVpnGuard",
-    "https://t.me/s/LonUp_M",
-    "https://t.me/s/ConfigV2rayNG",
-    "https://t.me/s/V2ray_Tunnel_Plus",
-    "https://t.me/s/CookVip",
     "https://t.me/s/v2rayfree",
-    "https://t.me/s/FreeV2rays",
-    "https://t.me/s/v2ray_free_conf",
+    #"https://t.me/s/v2ray_free_conf",
     "https://t.me/s/PrivateVPNs",
-    "https://t.me/s/IP_CF_Config",
-    "https://t.me/s/shadowproxy66",
-    "https://t.me/s/OutlineReleasedKey",
     "https://t.me/s/prrofile_purple",
-    "https://t.me/s/proxy_shadosocks",
-    "https://t.me/s/meli_proxyy",
     "https://t.me/s/DirectVPN",
-    "https://t.me/s/VmessProtocol",
-    "https://t.me/s/ViProxys",
-    "https://t.me/s/heyatserver",
-    "https://t.me/s/vpnfail_vless",
-    "https://t.me/s/DailyV2RY",
-    "https://t.me/s/Qv2rayCONFIG",
-    "https://t.me/s/xsfilternetv2",
-    "https://t.me/s/redfree8",
-    "https://t.me/s/AzadNet",
-    "https://t.me/s/V2SayFree",
-    "https://t.me/s/safeNet4All",
-    "https://t.me/s/golestan_vpn",
-    "https://t.me/s/mehduox_vpn",
-    "https://t.me/s/kayh_gng",
-    "https://t.me/s/xroVPN",
-    "https://t.me/s/viturey",
-    "https://t.me/s/freedom_guard_net",
-    "https://t.me/s/Ln2Ray",
-    "https://t.me/s/ZeusVPN_Net",
-    "https://t.me/s/v2nodes",
-    "https://t.me/s/v2box_free",
-    "https://t.me/s/vpnaloo",
-    "https://t.me/s/v2ray_hidify",
-    # Add more URLs here if you want to include additional sources.
+    "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
+    "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
+    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
+    "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
+    "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt",
+    #"https://raw.githubusercontent.com/imegabiz/ss-config-updater/refs/heads/main/configs.txt",
+    #"https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link.txt",
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
@@ -132,20 +23,64 @@ USE_MAXIMUM_POWER = False
 
 # Desired number of configurations to fetch.
 # This is used only if USE_MAXIMUM_POWER is False.
-SPECIFIC_CONFIG_COUNT = 300
+SPECIFIC_CONFIG_COUNT = 400
 
 # Dictionary of protocols to enable or disable.
 # Set each protocol to True to enable, False to disable.
 ENABLED_PROTOCOLS = {
-    "wireguard://": True,
+    "wireguard://": False,
     "hysteria2://": True,
     "vless://": True,
     "vmess://": True,
     "ss://": True,
     "trojan://": True,
-    "tuic://": True,
+    "tuic://": False,
 }
 
 # Maximum age of configurations in days.
 # Configurations older than this will be considered invalid.
-MAX_CONFIG_AGE_DAYS = 7
+MAX_CONFIG_AGE_DAYS = 5
+
+# --- Sing-box Config Tester Settings ---
+
+# Set to True to enable testing of configs using sing-box.
+# If True, sing-box will be used to test all fetched configs and create a 'tested' config file.
+# If False, the testing step will be skipped.
+ENABLE_SINGBOX_TESTER = True
+
+# Number of parallel workers to use for testing sing-box configs.
+# A higher number means faster testing but uses more CPU/RAM.
+SINGBOX_TESTER_MAX_WORKERS = 8
+
+# Maximum time (in seconds) to wait for a sing-box config to respond during testing.
+# Configs that take longer than this will be marked as failed.
+SINGBOX_TESTER_TIMEOUT_SECONDS = 10
+
+# List of URLs to test sing-box configs against.
+# The tester will try each URL in order until one succeeds.
+SINGBOX_TESTER_URLS = [
+    'https://www.youtube.com/generate_204'
+    #'https://www.gstatic.com/generate_204'
+]
+
+# --- Xray Config Tester Settings ---
+
+# Set to True to enable testing of configs using Xray core.
+# If True, Xray will be used to test all fetched configs before conversion and create a 'tested' config file.
+# If False, the testing step will be skipped.
+ENABLE_XRAY_TESTER = True
+
+# Number of parallel workers to use for testing Xray configs.
+# A higher number means faster testing but uses more CPU/RAM.
+XRAY_TESTER_MAX_WORKERS = 8
+
+# Maximum time (in seconds) to wait for an Xray config to respond during testing.
+# Configs that take longer than this will be marked as failed.
+XRAY_TESTER_TIMEOUT_SECONDS = 10
+
+# List of URLs to test Xray configs against.
+# The tester will try each URL in order until one succeeds.
+XRAY_TESTER_URLS = [
+    'https://www.youtube.com/generate_204'
+    #'https://www.gstatic.com/generate_204'
+]
