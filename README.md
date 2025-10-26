@@ -1,8 +1,8 @@
-[![Stars](https://img.shields.io/github/stars/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/stargazers)
-[![Forks](https://img.shields.io/github/forks/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/network/members)
-[![Issues](https://img.shields.io/github/issues/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/issues)
-[![License](https://img.shields.io/github/license/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/LICENSE)
-[![Activity](https://img.shields.io/github/last-commit/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/commits)
+[![Stars](https://img.shields.io/github/stars/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/stargazers)
+[![Forks](https://img.shields.io/github/forks/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/network/members)
+[![Issues](https://img.shields.io/github/issues/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/issues)
+[![License](https://img.shields.io/github/license/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/LICENSE)
+[![Activity](https://img.shields.io/github/last-commit/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/commits)
 
 # Multi Proxy Config Fetcher
 
@@ -14,7 +14,7 @@ This project automatically fetches and updates various proxy configurations from
 
 You can directly access the latest v2ray/Xray configurations through this URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
 ```
 This project features advanced capabilities for proxy configuration management. The retrieved configurations are automatically converted to Sing-box format and stored in a separate JSON file. For each server, its geographical location is identified using the get location method, and the corresponding flag emoji and country name are automatically added to its tag. These features make proxy management and usage significantly more user-friendly and efficient.
 
@@ -23,12 +23,12 @@ This project now includes the latest Sing-box core for **real-time configuration
 ### Sing-box Configurations (All)
 Access all configurations converted to Sing-box format via this URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_all.json
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_all.json
 ```
 ### Sing-box Configurations (Tested and Healthy)
 Access configurations that have successfully passed real-time health checks using the Sing-box core via this URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json
 ```
 ## Channel and URL Performance
 
@@ -42,7 +42,7 @@ Below is the real-time performance statistics of the configured sources (Telegra
 </div>
 
 ### Detailed Report
-📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Important for Forked Repositories**:  
 If you fork this repository, make sure to replace `USERNAME` in the above link with your GitHub username. This ensures that the link directs to your own interactive dashboard instead of the original project's dashboard. To do this:
@@ -101,7 +101,7 @@ The overall score is calculated in real-time and updated hourly. Sources scoring
 
 ```bash
 # Clone the repository
-git clone https://github.com/4n0nymou3/multi-proxy-config-fetcher.git
+git clone https://github.com/miladtahanian/multi-proxy-config-fetcher.git
 cd multi-proxy-config-fetcher
 
 # Install dependencies
@@ -167,5 +167,5 @@ This project is provided for educational and informational purposes only. The de
 
 ## About the Developer
 
-Developed by **4n0nymou3**.  
-For more information or to contact the developer, visit their [X (Twitter) profile](https://x.com/4n0nymou3).
+Developed by **miladtahanian**.  
+For more information or to contact the developer, visit their [X (Twitter) profile](https://x.com/miladtahanian).

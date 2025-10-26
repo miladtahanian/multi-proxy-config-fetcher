@@ -219,7 +219,7 @@ class ConfigToSingbox:
             "log": {"level": "warn", "timestamp": True},
             "dns": {
                 "servers": [
-                    {"type": "https", "server": "8.8.8.8", "detour": "🌐 Anonymous Multi", "tag": "dns-remote"},
+                    {"type": "https", "server": "8.8.8.8", "detour": "🌐 Milad Tahanian Multi", "tag": "dns-remote"},
                     {"type": "udp", "server": "8.8.8.8", "server_port": 53, "tag": "dns-direct"},
                     {"type": "fakeip", "tag": "dns-fake", "inet4_range": "198.18.0.0/15", "inet6_range": "fc00::/18"}
                 ],
@@ -239,7 +239,7 @@ class ConfigToSingbox:
                 {"type": "mixed", "tag": "mixed-in", "listen": "0.0.0.0", "listen_port": 2080}
             ],
             "outbounds": [
-                {"type": "selector", "tag": "🌐 Anonymous Multi", "outbounds": ["👽 Best Ping 🚀"] + valid_tags + ["direct"]},
+                {"type": "selector", "tag": "🌐 Milad Tahanian Multi", "outbounds": ["👽 Best Ping 🚀"] + valid_tags + ["direct"]},
                 {"type": "direct", "tag": "direct"},
                 {"type": "urltest", "tag": "👽 Best Ping 🚀", "outbounds": valid_tags, "url": "https://www.gstatic.com/generate_204", "interrupt_exist_connections": False, "interval": "30s"}
             ] + outbounds,
@@ -247,7 +247,7 @@ class ConfigToSingbox:
                 "rules": [
                     {"ip_cidr": "172.18.0.2", "action": "hijack-dns"},
                     {"clash_mode": "Direct", "outbound": "direct"},
-                    {"clash_mode": "Global", "outbound": "🌐 Anonymous Multi"},
+                    {"clash_mode": "Global", "outbound": "🌐 Milad Tahanian Multi"},
                     {"action": "sniff"},
                     {"protocol": "dns", "action": "hijack-dns"},
                     {"network": "udp", "action": "reject"},
@@ -268,7 +268,7 @@ class ConfigToSingbox:
                 ],
                 "auto_detect_interface": True,
                 "default_domain_resolver": {"server": "dns-direct", "strategy": "prefer_ipv4", "rewrite_ttl": 60},
-                "final": "🌐 Anonymous Multi"
+                "final": "🌐 Milad Tahanian Multi"
             },
             "ntp": {"enabled": True, "server": "time.cloudflare.com", "server_port": 123, "domain_resolver": "dns-direct", "interval": "30m", "write_to_system": False},
             "experimental": {

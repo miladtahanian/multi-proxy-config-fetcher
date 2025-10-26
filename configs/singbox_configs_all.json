@@ -8,7 +8,7 @@
             {
                 "type": "https",
                 "server": "8.8.8.8",
-                "detour": "🌐 Anonymous Multi",
+                "detour": "🌐 Milad Tahanian Multi",
                 "tag": "dns-remote"
             },
             {
@@ -99,7 +99,7 @@
     "outbounds": [
         {
             "type": "selector",
-            "tag": "🌐 Anonymous Multi",
+            "tag": "🌐 Milad Tahanian Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
                 "🇫🇷 1 - VLESS - France : 50268",
@@ -6793,7 +6793,7 @@
             },
             {
                 "clash_mode": "Global",
-                "outbound": "🌐 Anonymous Multi"
+                "outbound": "🌐 Milad Tahanian Multi"
             },
             {
                 "action": "sniff"
@@ -6901,7 +6901,7 @@
             "strategy": "prefer_ipv4",
             "rewrite_ttl": 60
         },
-        "final": "🌐 Anonymous Multi"
+        "final": "🌐 Milad Tahanian Multi"
     },
     "ntp": {
         "enabled": true,

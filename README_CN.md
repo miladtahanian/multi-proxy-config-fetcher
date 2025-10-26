@@ -1,8 +1,8 @@
-[![Stars](https://img.shields.io/github/stars/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/stargazers)
-[![Forks](https://img.shields.io/github/forks/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/network/members)
-[![Issues](https://img.shields.io/github/issues/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/issues)
-[![License](https://img.shields.io/github/license/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/LICENSE)
-[![Activity](https://img.shields.io/github/last-commit/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/commits)
+[![Stars](https://img.shields.io/github/stars/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/stargazers)
+[![Forks](https://img.shields.io/github/forks/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/network/members)
+[![Issues](https://img.shields.io/github/issues/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/issues)
+[![License](https://img.shields.io/github/license/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/LICENSE)
+[![Activity](https://img.shields.io/github/last-commit/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/commits)
 
 # 多协议代理配置获取器
 
@@ -14,7 +14,7 @@
 
 您可以通过以下 URL 直接访问最新 v2ray/Xray 配置：
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
 ```
 该项目具有高级代理配置管理功能。获取的配置会自动转换为 Sing-box 格式并存储在单独的 JSON 文件中。对于每个服务器，系统使用 get location 方法识别其地理位置，并自动将相应的国旗表情符号和国家名称添加到其标签中。这些功能使代理管理和使用变得更加用户友好和高效。
 
@@ -23,12 +23,12 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 ### Sing-box 配置（全部）
 通过此 URL 访问所有已转换为 Sing-box 格式的配置：
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_all.json
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_all.json
 ```
 ### Sing-box 配置（已测试且健康）
 通过此 URL 访问那些使用 Sing-box 核心成功通过实时健康检查的配置：
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json
 ```
 ## 频道和 URL 性能
 
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 </div>
 
 ### 详细报告
-📊 [查看完整交互式仪表盘](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [查看完整交互式仪表盘](https://htmlpreview.github.io/?https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Fork 仓库的重要说明**：  
 如果您 fork 此仓库，请确保将上述链接中的 `USERNAME` 替换为您的 GitHub 用户名。这确保链接指向您自己的交互式仪表盘而不是原始项目的仪表盘。操作步骤：
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 
 ```bash
 # 克隆仓库
-git clone https://github.com/4n0nymou3/multi-proxy-config-fetcher.git
+git clone https://github.com/miladtahanian/multi-proxy-config-fetcher.git
 cd multi-proxy-config-fetcher
 
 # 安装依赖
@@ -167,5 +167,5 @@ python src/fetch_configs.py
 
 ## 关于开发者
 
-由 **4n0nymou3** 开发。  
-欲了解更多信息或联系开发者，请访问其 [X (Twitter) 个人资料](https://x.com/4n0nymou3)。
+由 **miladtahanian** 开发。  
+欲了解更多信息或联系开发者，请访问其 [X (Twitter) 个人资料](https://x.com/miladtahanian)。

@@ -1,8 +1,8 @@
-[![Stars](https://img.shields.io/github/stars/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/stargazers)
-[![Forks](https://img.shields.io/github/forks/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/network/members)
-[![Issues](https://img.shields.io/github/issues/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/issues)
-[![License](https://img.shields.io/github/license/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/LICENSE)
-[![Activity](https://img.shields.io/github/last-commit/4n0nymou3/multi-proxy-config-fetcher?style=flat-square)](https://github.com/4n0nymou3/multi-proxy-config-fetcher/commits)
+[![Stars](https://img.shields.io/github/stars/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/stargazers)
+[![Forks](https://img.shields.io/github/forks/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/network/members)
+[![Issues](https://img.shields.io/github/issues/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/issues)
+[![License](https://img.shields.io/github/license/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/LICENSE)
+[![Activity](https://img.shields.io/github/last-commit/miladtahanian/multi-proxy-config-fetcher?style=flat-square)](https://github.com/miladtahanian/multi-proxy-config-fetcher/commits)
 
 # Сборщик Конфигураций Прокси
 
@@ -14,7 +14,7 @@
 
 Вы можете получить прямой доступ к последним конфигурациям v2ray/Xray через этот URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
 ```
 Этот проект обладает расширенными возможностями управления конфигурациями прокси. Полученные конфигурации автоматически конвертируются в формат Sing-box и сохраняются в отдельном JSON-файле. Для каждого сервера определяется его географическое положение с помощью метода get location, а соответствующий эмодзи флага и название страны автоматически добавляются к его тегу. Эти функции делают управление и использование прокси значительно более удобным и эффективным.
 
@@ -23,12 +23,12 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 ### Конфигурации Sing-box (Все)
 Получите доступ ко всем конфигурациям, преобразованным в формат Sing-box, по этому URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_all.json
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_all.json
 ```
 ### Конфигурации Sing-box (Протестированные и работоспособные)
 Получите доступ к конфигурациям, которые успешно прошли проверку работоспособности в реальном времени с использованием ядра Sing-box, по этому URL:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json
+https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs_tested.json
 ```
 ## Производительность каналов и URL
 
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 </div>
 
 ### Подробный отчет
-📊 [Просмотр полной интерактивной панели](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [Просмотр полной интерактивной панели](https://htmlpreview.github.io/?https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Важно для форкнутых репозиториев**:  
 Если вы форкаете этот репозиторий, обязательно замените `USERNAME` в приведенной выше ссылке на ваше имя пользователя GitHub. Это обеспечит перенаправление ссылки на вашу собственную интерактивную панель вместо панели исходного проекта. Для этого:
@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/4n0nymou3/multi-proxy-config-fetcher.git
+git clone https://github.com/miladtahanian/multi-proxy-config-fetcher.git
 cd multi-proxy-config-fetcher
 
 # Установить зависимости
@@ -167,5 +167,5 @@ python src/fetch_configs.py
 
 ## О разработчике
 
-Разработано **4n0nymou3**.  
-Для получения дополнительной информации или связи с разработчиком посетите его [профиль X (Twitter)](https://x.com/4n0nymou3).
+Разработано **miladtahanian**.  
+Для получения дополнительной информации или связи с разработчиком посетите его [профиль X (Twitter)](https://x.com/miladtahanian).
