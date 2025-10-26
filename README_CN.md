@@ -45,13 +45,13 @@ https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/
 📊 [查看完整交互式仪表盘](https://htmlpreview.github.io/?https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **Fork 仓库的重要说明**：  
-如果您 fork 此仓库，请确保将上述链接中的 `USERNAME` 替换为您的 GitHub 用户名。这确保链接指向您自己的交互式仪表盘而不是原始项目的仪表盘。操作步骤：
+如果您 fork 此仓库，请确保将上述链接中的 `miladtahanian` 替换为您的 GitHub 用户名。这确保链接指向您自己的交互式仪表盘而不是原始项目的仪表盘。操作步骤：
 1. 在您 fork 的仓库中编辑 `README.md` 文件。
 2. 找到以下行：
    ```markdown
-   📊 [查看完整交互式仪表盘](https://htmlpreview.github.io/?https://github.com/USERNAME/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+   📊 [查看完整交互式仪表盘](https://htmlpreview.github.io/?https://github.com/miladtahanian/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
    ```
-3. 将 `USERNAME` 替换为您的 GitHub 用户名。
+3. 将 `miladtahanian` 替换为您的 GitHub 用户名。
 4. 提交更改。
 
 每个源基于四个关键指标进行评分：

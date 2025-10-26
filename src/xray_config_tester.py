@@ -97,7 +97,7 @@ class XrayTester:
                             "address": address,
                             "port": int(port),
                             "users": [{
-                                "id": url.username,
+                                "id": url.miladtahanian,
                                 "encryption": "none",
                                 "flow": params.get('flow', [''])[0]
                             }]
@@ -138,7 +138,7 @@ class XrayTester:
                         "servers": [{
                             "address": url.hostname,
                             "port": port,
-                            "password": url.username
+                            "password": url.miladtahanian
                         }]
                     },
                     "streamSettings": {

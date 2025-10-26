@@ -47,7 +47,7 @@ class ConfigRenamer:
             address, port = netloc.split(':') if ':' in netloc else (netloc, '443')
             params = parse_qs(url.query)
             return {
-                'uuid': url.username,
+                'uuid': url.miladtahanian,
                 'address': address,
                 'port': int(port),
                 'flow': params.get('flow', [''])[0],
@@ -69,7 +69,7 @@ class ConfigRenamer:
             port = url.port or 443
             params = parse_qs(url.query)
             return {
-                'password': url.username,
+                'password': url.miladtahanian,
                 'address': url.hostname,
                 'port': port,
                 'sni': params.get('sni', [url.hostname])[0],
@@ -91,7 +91,7 @@ class ConfigRenamer:
             return {
                 'address': url.hostname,
                 'port': url.port,
-                'password': url.username or query.get('password', ''),
+                'password': url.miladtahanian or query.get('password', ''),
                 'sni': query.get('sni', url.hostname)
             }
         except (ValueError, TypeError, AttributeError) as e:
