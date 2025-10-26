@@ -93,11 +93,8 @@ jobs:
         
         sed -i "s/channel_stats_chart\.svg?v=[0-9]*/channel_stats_chart.svg?v=$timestamp/" README_FA.md
         sed -i "s/performance_report\.html?v=[0-9]*/performance_report.html?v=$timestamp/" README_FA.md
-<<<<<<< Updated upstream
 
-    - name: Setup Git
-=======
-        
+    - name: Setup Git        
         sed -i "s/channel_stats_chart\.svg?v=[0-9]*/channel_stats_chart.svg?v=$timestamp/" README_CN.md
         sed -i "s/performance_report\.html?v=[0-9]*/performance_report.html?v=$timestamp/" README_CN.md
         
@@ -105,10 +102,6 @@ jobs:
         sed -i "s/performance_report\.html?v=[0-9]*/performance_report.html?v=$timestamp/" README_RU.md
     
     - name: Commit and push changes
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
