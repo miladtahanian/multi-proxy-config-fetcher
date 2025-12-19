@@ -103,106 +103,116 @@
             "outbounds": [
                 "👽 Best Ping 🚀",
                 "🇳🇱 1 - SS - The Netherlands : 8080",
-                "🇳🇱 2 - SS - The Netherlands : 8080",
-                "🇺🇸 3 - SS - United States : 8080",
+                "🇳🇱 2 - SS - Netherlands : 8080",
+                "🇳🇱 3 - SS - The Netherlands : 8080",
                 "🇺🇸 4 - SS - United States : 8080",
-                "🇱🇻 5 - SS - Latvia : 443",
-                "🇬🇧 6 - SS - United Kingdom : 5223",
-                "🇳🇱 7 - SS - Netherlands : 443",
+                "🇳🇴 5 - SS - Norway : 443",
+                "🇱🇻 6 - SS - Latvia : 443",
+                "🇳🇱 7 - SS - The Netherlands : 443",
                 "🇳🇱 8 - SS - The Netherlands : 443",
                 "🇳🇱 9 - SS - The Netherlands : 443",
-                "🇰🇷 10 - SS - South Korea : 10099",
-                "🇳🇱 11 - SS - The Netherlands : 443",
+                "🇳🇱 10 - SS - Netherlands : 443",
+                "🇺🇸 11 - SS - United States : 443",
                 "🇺🇸 12 - SS - United States : 8080",
-                "🇺🇸 13 - SS - United States : 443",
-                "🇺🇸 14 - SS - United States : 8080",
-                "🇺🇸 15 - SS - United States : 8080",
-                "🇺🇸 16 - SS - United States : 8080",
-                "🇩🇪 17 - SS - Germany : 57456",
-                "🇹🇷 18 - SS - Turkey : 5223",
-                "🇳🇱 19 - SS - Netherlands : 443",
-                "🇯🇵 20 - SS - Japan : 443",
-                "🇳🇱 21 - SS - Netherlands : 443",
-                "🇧🇬 22 - SS - Bulgaria : 990",
-                "🇮🇹 23 - SS - Italy : 990",
-                "🇯🇵 24 - SS - Japan : 990",
-                "🇦🇪 25 - SS - United Arab Emirates : 990",
-                "🇮🇳 26 - SS - India : 990",
-                "🇵🇪 27 - SS - Peru : 990",
-                "🇦🇪 28 - SS - United Arab Emirates : 990",
-                "🇧🇭 29 - SS - Bahrain : 990",
-                "🇵🇰 30 - SS - Pakistan : 990",
-                "🇮🇹 31 - SS - Italy : 990",
-                "🇵🇷 32 - SS - Puerto Rico : 990",
-                "🇲🇦 33 - SS - Morocco : 990",
-                "🇦🇷 34 - SS - Argentina : 990",
-                "🇨🇦 35 - SS - Canada : 990",
-                "🇦🇹 36 - SS - Austria : 990",
-                "🇧🇷 37 - SS - Brazil : 990",
-                "🇪🇬 38 - SS - Egypt : 990",
-                "🇧🇬 39 - SS - Bulgaria : 990",
-                "🇩🇪 40 - SS - Germany : 990",
-                "🇸🇬 41 - SS - Singapore : 990",
-                "🇰🇿 42 - SS - Kazakhstan : 990",
-                "🇲🇰 43 - SS - Macedonia : 990",
-                "🇨🇦 44 - SS - Canada : 990",
-                "🇨🇾 45 - SS - Cyprus : 990",
-                "🇸🇬 46 - SS - Singapore : 990",
-                "🇭🇰 47 - SS - Hong Kong : 443",
-                "🇸🇮 48 - SS - Slovenia : 443",
-                "🇩🇪 49 - SS - Germany : 443",
-                "🇨🇦 50 - SS - Canada : 80",
-                "🇨🇦 51 - SS - Canada : 80",
-                "🇰🇿 52 - SS - Kazakhstan : 28212",
-                "🇸🇪 53 - SS - Sweden : 30604",
-                "🇬🇧 54 - SS - United Kingdom : 8443",
-                "🇷🇴 55 - SS - Romania : 443",
-                "🇮🇹 56 - SS - Italy : 443",
-                "🇳🇱 57 - SS - Netherlands : 8080",
-                "🇺🇸 58 - SS - United States : 8080",
-                "🇺🇸 59 - SS - United States : 8080",
-                "🇳🇱 60 - SS - Netherlands : 443",
-                "🇳🇱 61 - SS - Netherlands : 443",
-                "🇩🇰 62 - SS - Denmark : 443",
-                "🇩🇰 63 - SS - Denmark : 443",
-                "🇦🇺 64 - SS - Australia : 443",
-                "🇮🇹 65 - SS - Italy : 443",
-                "🇮🇹 66 - SS - Italy : 443",
-                "🇺🇦 67 - SS - Ukraine : 443",
-                "🇷🇺 68 - SS - Russia : 5112",
-                "🇳🇱 69 - SS - The Netherlands : 56689",
-                "🇦🇪 70 - SS - United Arab Emirates : 443",
-                "🇮🇳 71 - SS - India : 25578",
-                "🇳🇱 72 - SS - Netherlands : 8080",
-                "🇺🇸 73 - SS - United States : 8080",
-                "🇺🇸 74 - SS - United States : 8080",
-                "🇺🇸 75 - SS - United States : 8080",
-                "🇺🇸 76 - SS - United States : 8080",
+                "🇺🇸 13 - SS - United States : 8080",
+                "🇹🇷 14 - SS - Türkiye : 5223",
+                "🇯🇵 15 - SS - Japan : 443",
+                "🇳🇱 16 - SS - The Netherlands : 443",
+                "🇳🇱 17 - SS - The Netherlands : 443",
+                "🇲🇽 18 - SS - Mexico : 990",
+                "🇵🇰 19 - SS - Pakistan : 990",
+                "🇺🇸 20 - SS - United States : 990",
+                "🇱🇹 21 - SS - Republic of Lithuania : 990",
+                "🇵🇷 22 - SS - Puerto Rico : 990",
+                "🇧🇬 23 - SS - Bulgaria : 990",
+                "🇪🇨 24 - SS - Ecuador : 990",
+                "🇹🇼 25 - SS - Taiwan : 990",
+                "🇦🇺 26 - SS - Australia : 990",
+                "🇬🇧 27 - SS - United Kingdom : 990",
+                "🇯🇵 28 - SS - Japan : 990",
+                "🇦🇪 29 - SS - United Arab Emirates : 990",
+                "🇮🇳 30 - SS - India : 990",
+                "🇵🇪 31 - SS - Peru : 990",
+                "🇦🇪 32 - SS - United Arab Emirates : 990",
+                "🇧🇭 33 - SS - Bahrain : 990",
+                "🇵🇰 34 - SS - Pakistan : 990",
+                "🇮🇹 35 - SS - Italy : 990",
+                "🇳🇴 36 - SS - Norway : 990",
+                "🇵🇷 37 - SS - Puerto Rico : 990",
+                "🇲🇦 38 - SS - Morocco : 990",
+                "🇦🇷 39 - SS - Argentina : 990",
+                "🇮🇹 40 - SS - Italy : 990",
+                "🇨🇦 41 - SS - Canada : 990",
+                "🇦🇹 42 - SS - Austria : 990",
+                "🇧🇷 43 - SS - Brazil : 990",
+                "🇪🇬 44 - SS - Egypt : 990",
+                "🇧🇬 45 - SS - Bulgaria : 990",
+                "🇩🇪 46 - SS - Germany : 990",
+                "🇸🇬 47 - SS - Singapore : 990",
+                "🇰🇿 48 - SS - Kazakhstan : 990",
+                "🇲🇰 49 - SS - North Macedonia : 990",
+                "🇨🇦 50 - SS - Canada : 990",
+                "🇨🇾 51 - SS - Cyprus : 990",
+                "🇸🇬 52 - SS - Singapore : 990",
+                "🇭🇰 53 - SS - Hong Kong : 443",
+                "🇸🇮 54 - SS - Slovenia : 443",
+                "🇩🇪 55 - SS - Germany : 443",
+                "🇨🇦 56 - SS - Canada : 80",
+                "🇨🇦 57 - SS - Canada : 80",
+                "🇬🇧 58 - SS - United Kingdom : 8443",
+                "🇷🇴 59 - SS - Romania : 443",
+                "🇮🇹 60 - SS - Italy : 443",
+                "🇳🇱 61 - SS - The Netherlands : 8080",
+                "🇺🇸 62 - SS - United States : 8080",
+                "🇳🇱 63 - SS - The Netherlands : 443",
+                "🇳🇱 64 - SS - The Netherlands : 443",
+                "🇳🇱 65 - SS - Netherlands : 55702",
+                "🇩🇰 66 - SS - Denmark : 443",
+                "🇦🇺 67 - SS - Australia : 443",
+                "🇮🇹 68 - SS - Italy : 443",
+                "🇮🇹 69 - SS - Italy : 443",
+                "🇷🇺 70 - SS - Russia : 5112",
+                "🇩🇪 71 - SS - Germany : 7048",
+                "🇳🇱 72 - SS - The Netherlands : 56689",
+                "🇦🇪 73 - SS - United Arab Emirates : 443",
+                "🇳🇱 74 - SS - Netherlands : 8444",
+                "🇺🇸 75 - SS - United States : 40565",
+                "🇳🇱 76 - SS - Netherlands : 8080",
                 "🇺🇸 77 - SS - United States : 8080",
                 "🇺🇸 78 - SS - United States : 8080",
                 "🇺🇸 79 - SS - United States : 8080",
                 "🇺🇸 80 - SS - United States : 8080",
-                "🇫🇮 81 - SS - Finland : 443",
-                "🇫🇮 82 - SS - Finland : 443",
-                "🇻🇳 83 - SS - Vietnam : 990",
-                "🇺🇸 84 - SS - United States : 990",
-                "🇧🇷 1 - VMess - Brazil : 80",
-                "🇭🇰 2 - VMess - Hong Kong : 5689",
-                "🇨🇦 3 - VMess - Canada : 80",
-                "🇰🇷 4 - VMess - Republic of Korea : 443",
-                "🇰🇷 5 - VMess - Republic of Korea : 443",
-                "🇺🇸 6 - VMess - United States : 59807",
-                "🇹🇷 7 - VMess - Turkey : 39651",
-                "🇩🇪 8 - VMess - Germany : 21639",
-                "🇺🇸 9 - VMess - United States : 12056",
-                "🇪🇸 10 - VMess - Spain : 40433",
-                "🇺🇸 11 - VMess - United States : 443",
-                "🇧🇷 12 - VMess - Brazil : 38039",
-                "🇧🇷 13 - VMess - Brazil : 36104",
-                "🇧🇷 14 - VMess - Brazil : 36236",
-                "🇫🇮 15 - VMess - Finland : 7443",
-                "🇳🇱 16 - VMess - Netherlands : 443",
-                "🇩🇪 17 - VMess - Germany : 100",
+                "🇺🇸 81 - SS - United States : 8080",
+                "🇺🇸 82 - SS - United States : 8080",
+                "🇫🇮 83 - SS - Finland : 443",
+                "🇫🇮 84 - SS - Finland : 443",
+                "🇻🇳 85 - SS - Vietnam : 990",
+                "🇺🇸 86 - SS - United States : 990",
+                "🇮🇳 87 - SS - India : 990",
+                "🇨🇾 88 - SS - Cyprus : 990",
+                "🇨🇷 89 - SS - Costa Rica : 990",
+                "🇮🇩 90 - SS - Indonesia : 990",
+                "🇲🇹 91 - SS - Malta : 990",
+                "🇷🇴 92 - SS - Romania : 990",
+                "🇵🇹 93 - SS - Portugal : 990",
+                "🇵🇹 94 - SS - Portugal : 990",
+                "🇵🇪 95 - SS - Peru : 990",
+                "🇰🇷 1 - VMess - South Korea : 443",
+                "🇨🇦 2 - VMess - Canada : 2083",
+                "🇮🇷 3 - VMess - Iran : 28036",
+                "🇧🇷 4 - VMess - Brazil : 80",
+                "🇭🇰 5 - VMess - Hong Kong : 80",
+                "🇭🇰 6 - VMess - Hong Kong : 30830",
+                "🇭🇰 7 - VMess - Hong Kong : 30829",
+                "🇭🇰 8 - VMess - Hong Kong : 30836",
+                "🇭🇰 9 - VMess - Hong Kong : 30808",
+                "🇭🇰 10 - VMess - Hong Kong : 30807",
+                "🇮🇳 11 - VMess - India : 550",
+                "🇹🇭 12 - VMess - Thailand : 443",
+                "🇺🇸 13 - VMess - United States : 443",
+                "🇹🇷 14 - VMess - Turkey : 39651",
+                "🇺🇸 15 - VMess - United States : 12056",
+                "🇨🇦 16 - VMess - Canada : 443",
                 "direct"
             ]
         },
@@ -215,106 +225,116 @@
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
                 "🇳🇱 1 - SS - The Netherlands : 8080",
-                "🇳🇱 2 - SS - The Netherlands : 8080",
-                "🇺🇸 3 - SS - United States : 8080",
+                "🇳🇱 2 - SS - Netherlands : 8080",
+                "🇳🇱 3 - SS - The Netherlands : 8080",
                 "🇺🇸 4 - SS - United States : 8080",
-                "🇱🇻 5 - SS - Latvia : 443",
-                "🇬🇧 6 - SS - United Kingdom : 5223",
-                "🇳🇱 7 - SS - Netherlands : 443",
+                "🇳🇴 5 - SS - Norway : 443",
+                "🇱🇻 6 - SS - Latvia : 443",
+                "🇳🇱 7 - SS - The Netherlands : 443",
                 "🇳🇱 8 - SS - The Netherlands : 443",
                 "🇳🇱 9 - SS - The Netherlands : 443",
-                "🇰🇷 10 - SS - South Korea : 10099",
-                "🇳🇱 11 - SS - The Netherlands : 443",
+                "🇳🇱 10 - SS - Netherlands : 443",
+                "🇺🇸 11 - SS - United States : 443",
                 "🇺🇸 12 - SS - United States : 8080",
-                "🇺🇸 13 - SS - United States : 443",
-                "🇺🇸 14 - SS - United States : 8080",
-                "🇺🇸 15 - SS - United States : 8080",
-                "🇺🇸 16 - SS - United States : 8080",
-                "🇩🇪 17 - SS - Germany : 57456",
-                "🇹🇷 18 - SS - Turkey : 5223",
-                "🇳🇱 19 - SS - Netherlands : 443",
-                "🇯🇵 20 - SS - Japan : 443",
-                "🇳🇱 21 - SS - Netherlands : 443",
-                "🇧🇬 22 - SS - Bulgaria : 990",
-                "🇮🇹 23 - SS - Italy : 990",
-                "🇯🇵 24 - SS - Japan : 990",
-                "🇦🇪 25 - SS - United Arab Emirates : 990",
-                "🇮🇳 26 - SS - India : 990",
-                "🇵🇪 27 - SS - Peru : 990",
-                "🇦🇪 28 - SS - United Arab Emirates : 990",
-                "🇧🇭 29 - SS - Bahrain : 990",
-                "🇵🇰 30 - SS - Pakistan : 990",
-                "🇮🇹 31 - SS - Italy : 990",
-                "🇵🇷 32 - SS - Puerto Rico : 990",
-                "🇲🇦 33 - SS - Morocco : 990",
-                "🇦🇷 34 - SS - Argentina : 990",
-                "🇨🇦 35 - SS - Canada : 990",
-                "🇦🇹 36 - SS - Austria : 990",
-                "🇧🇷 37 - SS - Brazil : 990",
-                "🇪🇬 38 - SS - Egypt : 990",
-                "🇧🇬 39 - SS - Bulgaria : 990",
-                "🇩🇪 40 - SS - Germany : 990",
-                "🇸🇬 41 - SS - Singapore : 990",
-                "🇰🇿 42 - SS - Kazakhstan : 990",
-                "🇲🇰 43 - SS - Macedonia : 990",
-                "🇨🇦 44 - SS - Canada : 990",
-                "🇨🇾 45 - SS - Cyprus : 990",
-                "🇸🇬 46 - SS - Singapore : 990",
-                "🇭🇰 47 - SS - Hong Kong : 443",
-                "🇸🇮 48 - SS - Slovenia : 443",
-                "🇩🇪 49 - SS - Germany : 443",
-                "🇨🇦 50 - SS - Canada : 80",
-                "🇨🇦 51 - SS - Canada : 80",
-                "🇰🇿 52 - SS - Kazakhstan : 28212",
-                "🇸🇪 53 - SS - Sweden : 30604",
-                "🇬🇧 54 - SS - United Kingdom : 8443",
-                "🇷🇴 55 - SS - Romania : 443",
-                "🇮🇹 56 - SS - Italy : 443",
-                "🇳🇱 57 - SS - Netherlands : 8080",
-                "🇺🇸 58 - SS - United States : 8080",
-                "🇺🇸 59 - SS - United States : 8080",
-                "🇳🇱 60 - SS - Netherlands : 443",
-                "🇳🇱 61 - SS - Netherlands : 443",
-                "🇩🇰 62 - SS - Denmark : 443",
-                "🇩🇰 63 - SS - Denmark : 443",
-                "🇦🇺 64 - SS - Australia : 443",
-                "🇮🇹 65 - SS - Italy : 443",
-                "🇮🇹 66 - SS - Italy : 443",
-                "🇺🇦 67 - SS - Ukraine : 443",
-                "🇷🇺 68 - SS - Russia : 5112",
-                "🇳🇱 69 - SS - The Netherlands : 56689",
-                "🇦🇪 70 - SS - United Arab Emirates : 443",
-                "🇮🇳 71 - SS - India : 25578",
-                "🇳🇱 72 - SS - Netherlands : 8080",
-                "🇺🇸 73 - SS - United States : 8080",
-                "🇺🇸 74 - SS - United States : 8080",
-                "🇺🇸 75 - SS - United States : 8080",
-                "🇺🇸 76 - SS - United States : 8080",
+                "🇺🇸 13 - SS - United States : 8080",
+                "🇹🇷 14 - SS - Türkiye : 5223",
+                "🇯🇵 15 - SS - Japan : 443",
+                "🇳🇱 16 - SS - The Netherlands : 443",
+                "🇳🇱 17 - SS - The Netherlands : 443",
+                "🇲🇽 18 - SS - Mexico : 990",
+                "🇵🇰 19 - SS - Pakistan : 990",
+                "🇺🇸 20 - SS - United States : 990",
+                "🇱🇹 21 - SS - Republic of Lithuania : 990",
+                "🇵🇷 22 - SS - Puerto Rico : 990",
+                "🇧🇬 23 - SS - Bulgaria : 990",
+                "🇪🇨 24 - SS - Ecuador : 990",
+                "🇹🇼 25 - SS - Taiwan : 990",
+                "🇦🇺 26 - SS - Australia : 990",
+                "🇬🇧 27 - SS - United Kingdom : 990",
+                "🇯🇵 28 - SS - Japan : 990",
+                "🇦🇪 29 - SS - United Arab Emirates : 990",
+                "🇮🇳 30 - SS - India : 990",
+                "🇵🇪 31 - SS - Peru : 990",
+                "🇦🇪 32 - SS - United Arab Emirates : 990",
+                "🇧🇭 33 - SS - Bahrain : 990",
+                "🇵🇰 34 - SS - Pakistan : 990",
+                "🇮🇹 35 - SS - Italy : 990",
+                "🇳🇴 36 - SS - Norway : 990",
+                "🇵🇷 37 - SS - Puerto Rico : 990",
+                "🇲🇦 38 - SS - Morocco : 990",
+                "🇦🇷 39 - SS - Argentina : 990",
+                "🇮🇹 40 - SS - Italy : 990",
+                "🇨🇦 41 - SS - Canada : 990",
+                "🇦🇹 42 - SS - Austria : 990",
+                "🇧🇷 43 - SS - Brazil : 990",
+                "🇪🇬 44 - SS - Egypt : 990",
+                "🇧🇬 45 - SS - Bulgaria : 990",
+                "🇩🇪 46 - SS - Germany : 990",
+                "🇸🇬 47 - SS - Singapore : 990",
+                "🇰🇿 48 - SS - Kazakhstan : 990",
+                "🇲🇰 49 - SS - North Macedonia : 990",
+                "🇨🇦 50 - SS - Canada : 990",
+                "🇨🇾 51 - SS - Cyprus : 990",
+                "🇸🇬 52 - SS - Singapore : 990",
+                "🇭🇰 53 - SS - Hong Kong : 443",
+                "🇸🇮 54 - SS - Slovenia : 443",
+                "🇩🇪 55 - SS - Germany : 443",
+                "🇨🇦 56 - SS - Canada : 80",
+                "🇨🇦 57 - SS - Canada : 80",
+                "🇬🇧 58 - SS - United Kingdom : 8443",
+                "🇷🇴 59 - SS - Romania : 443",
+                "🇮🇹 60 - SS - Italy : 443",
+                "🇳🇱 61 - SS - The Netherlands : 8080",
+                "🇺🇸 62 - SS - United States : 8080",
+                "🇳🇱 63 - SS - The Netherlands : 443",
+                "🇳🇱 64 - SS - The Netherlands : 443",
+                "🇳🇱 65 - SS - Netherlands : 55702",
+                "🇩🇰 66 - SS - Denmark : 443",
+                "🇦🇺 67 - SS - Australia : 443",
+                "🇮🇹 68 - SS - Italy : 443",
+                "🇮🇹 69 - SS - Italy : 443",
+                "🇷🇺 70 - SS - Russia : 5112",
+                "🇩🇪 71 - SS - Germany : 7048",
+                "🇳🇱 72 - SS - The Netherlands : 56689",
+                "🇦🇪 73 - SS - United Arab Emirates : 443",
+                "🇳🇱 74 - SS - Netherlands : 8444",
+                "🇺🇸 75 - SS - United States : 40565",
+                "🇳🇱 76 - SS - Netherlands : 8080",
                 "🇺🇸 77 - SS - United States : 8080",
                 "🇺🇸 78 - SS - United States : 8080",
                 "🇺🇸 79 - SS - United States : 8080",
                 "🇺🇸 80 - SS - United States : 8080",
-                "🇫🇮 81 - SS - Finland : 443",
-                "🇫🇮 82 - SS - Finland : 443",
-                "🇻🇳 83 - SS - Vietnam : 990",
-                "🇺🇸 84 - SS - United States : 990",
-                "🇧🇷 1 - VMess - Brazil : 80",
-                "🇭🇰 2 - VMess - Hong Kong : 5689",
-                "🇨🇦 3 - VMess - Canada : 80",
-                "🇰🇷 4 - VMess - Republic of Korea : 443",
-                "🇰🇷 5 - VMess - Republic of Korea : 443",
-                "🇺🇸 6 - VMess - United States : 59807",
-                "🇹🇷 7 - VMess - Turkey : 39651",
-                "🇩🇪 8 - VMess - Germany : 21639",
-                "🇺🇸 9 - VMess - United States : 12056",
-                "🇪🇸 10 - VMess - Spain : 40433",
-                "🇺🇸 11 - VMess - United States : 443",
-                "🇧🇷 12 - VMess - Brazil : 38039",
-                "🇧🇷 13 - VMess - Brazil : 36104",
-                "🇧🇷 14 - VMess - Brazil : 36236",
-                "🇫🇮 15 - VMess - Finland : 7443",
-                "🇳🇱 16 - VMess - Netherlands : 443",
-                "🇩🇪 17 - VMess - Germany : 100"
+                "🇺🇸 81 - SS - United States : 8080",
+                "🇺🇸 82 - SS - United States : 8080",
+                "🇫🇮 83 - SS - Finland : 443",
+                "🇫🇮 84 - SS - Finland : 443",
+                "🇻🇳 85 - SS - Vietnam : 990",
+                "🇺🇸 86 - SS - United States : 990",
+                "🇮🇳 87 - SS - India : 990",
+                "🇨🇾 88 - SS - Cyprus : 990",
+                "🇨🇷 89 - SS - Costa Rica : 990",
+                "🇮🇩 90 - SS - Indonesia : 990",
+                "🇲🇹 91 - SS - Malta : 990",
+                "🇷🇴 92 - SS - Romania : 990",
+                "🇵🇹 93 - SS - Portugal : 990",
+                "🇵🇹 94 - SS - Portugal : 990",
+                "🇵🇪 95 - SS - Peru : 990",
+                "🇰🇷 1 - VMess - South Korea : 443",
+                "🇨🇦 2 - VMess - Canada : 2083",
+                "🇮🇷 3 - VMess - Iran : 28036",
+                "🇧🇷 4 - VMess - Brazil : 80",
+                "🇭🇰 5 - VMess - Hong Kong : 80",
+                "🇭🇰 6 - VMess - Hong Kong : 30830",
+                "🇭🇰 7 - VMess - Hong Kong : 30829",
+                "🇭🇰 8 - VMess - Hong Kong : 30836",
+                "🇭🇰 9 - VMess - Hong Kong : 30808",
+                "🇭🇰 10 - VMess - Hong Kong : 30807",
+                "🇮🇳 11 - VMess - India : 550",
+                "🇹🇭 12 - VMess - Thailand : 443",
+                "🇺🇸 13 - VMess - United States : 443",
+                "🇹🇷 14 - VMess - Turkey : 39651",
+                "🇺🇸 15 - VMess - United States : 12056",
+                "🇨🇦 16 - VMess - Canada : 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -323,6 +343,14 @@
         {
             "type": "shadowsocks",
             "tag": "🇳🇱 1 - SS - The Netherlands : 8080",
+            "server": "151.242.251.144",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "4a2rfixophdjffa8KVA4Aa"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇳🇱 2 - SS - Netherlands : 8080",
             "server": "193.29.139.157",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
@@ -330,16 +358,8 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 2 - SS - The Netherlands : 8080",
+            "tag": "🇳🇱 3 - SS - The Netherlands : 8080",
             "server": "193.29.139.206",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "4a2rfixophdjffa8KVA4Aa"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 3 - SS - United States : 8080",
-            "server": "45.87.175.157",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "4a2rfixophdjffa8KVA4Aa"
@@ -354,7 +374,15 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇱🇻 5 - SS - Latvia : 443",
+            "tag": "🇳🇴 5 - SS - Norway : 443",
+            "server": "107.174.114.71",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "595HLF3fHUuw0McM51tpvPygSIB1uf4D"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇱🇻 6 - SS - Latvia : 443",
             "server": "94.131.104.147",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -362,15 +390,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇬🇧 6 - SS - United Kingdom : 5223",
-            "server": "51.195.202.129",
-            "server_port": 5223,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9AET6ZCfi1p9FCZ25AgEcP"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 7 - SS - Netherlands : 443",
+            "tag": "🇳🇱 7 - SS - The Netherlands : 443",
             "server": "92.112.126.90",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -394,15 +414,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇰🇷 10 - SS - South Korea : 10099",
-            "server": "glance.asuscomm.com",
-            "server_port": 10099,
-            "method": "chacha20-ietf-poly1305",
-            "password": "12242"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇳🇱 11 - SS - The Netherlands : 443",
+            "tag": "🇳🇱 10 - SS - Netherlands : 443",
             "server": "45.14.245.2",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -410,15 +422,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇸 12 - SS - United States : 8080",
-            "server": "45.87.175.157",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1RWwXhwfAB5gAEozU4G2Pg"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 13 - SS - United States : 443",
+            "tag": "🇺🇸 11 - SS - United States : 443",
             "server": "45.87.175.166",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -426,7 +430,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇸 14 - SS - United States : 8080",
+            "tag": "🇺🇸 12 - SS - United States : 8080",
             "server": "45.87.175.171",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
@@ -434,15 +438,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇸 15 - SS - United States : 8080",
-            "server": "45.87.175.178",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1RWwXhwfAB5gAEozU4G2Pg"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 16 - SS - United States : 8080",
+            "tag": "🇺🇸 13 - SS - United States : 8080",
             "server": "45.87.175.199",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
@@ -450,15 +446,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇩🇪 17 - SS - Germany : 57456",
-            "server": "desrv.vmagnum.win",
-            "server_port": 57456,
-            "method": "chacha20-ietf-poly1305",
-            "password": "345dbf842bce4b66"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇹🇷 18 - SS - Turkey : 5223",
+            "tag": "🇹🇷 14 - SS - Türkiye : 5223",
             "server": "94.131.123.236",
             "server_port": 5223,
             "method": "chacha20-ietf-poly1305",
@@ -466,15 +454,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 19 - SS - Netherlands : 443",
-            "server": "178.23.190.238",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "uo7EbtqIwgZXXHmMv5LbLcOxptyPlNkh"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 20 - SS - Japan : 443",
+            "tag": "🇯🇵 15 - SS - Japan : 443",
             "server": "5.253.41.46",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -482,7 +462,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 21 - SS - Netherlands : 443",
+            "tag": "🇳🇱 16 - SS - The Netherlands : 443",
             "server": "136.244.100.113",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -490,71 +470,23 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇧🇬 22 - SS - Bulgaria : 990",
-            "server": "193.135.174.135",
+            "tag": "🇳🇱 17 - SS - The Netherlands : 443",
+            "server": "136.244.100.113",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "yODLXVLz2FWNTFeSSng3Fm"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇲🇽 18 - SS - Mexico : 990",
+            "server": "147.78.1.230",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
         },
         {
             "type": "shadowsocks",
-            "tag": "🇮🇹 23 - SS - Italy : 990",
-            "server": "212.102.54.45",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇯🇵 24 - SS - Japan : 990",
-            "server": "103.106.228.247",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇪 25 - SS - United Arab Emirates : 990",
-            "server": "103.57.251.240",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇮🇳 26 - SS - India : 990",
-            "server": "103.97.203.227",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇵🇪 27 - SS - Peru : 990",
-            "server": "138.186.143.32",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇪 28 - SS - United Arab Emirates : 990",
-            "server": "147.78.0.182",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇧🇭 29 - SS - Bahrain : 990",
-            "server": "154.205.146.153",
-            "server_port": 990,
-            "method": "chacha20-ietf-poly1305",
-            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇵🇰 30 - SS - Pakistan : 990",
+            "tag": "🇵🇰 19 - SS - Pakistan : 990",
             "server": "156.59.243.6",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -562,15 +494,23 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇮🇹 31 - SS - Italy : 990",
-            "server": "176.126.83.158",
+            "tag": "🇺🇸 20 - SS - United States : 990",
+            "server": "173.234.29.2",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
         },
         {
             "type": "shadowsocks",
-            "tag": "🇵🇷 32 - SS - Puerto Rico : 990",
+            "tag": "🇱🇹 21 - SS - Republic of Lithuania : 990",
+            "server": "185.237.185.89",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇵🇷 22 - SS - Puerto Rico : 990",
             "server": "185.47.255.22",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -578,7 +518,127 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇲🇦 33 - SS - Morocco : 990",
+            "tag": "🇧🇬 23 - SS - Bulgaria : 990",
+            "server": "193.135.174.135",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇪🇨 24 - SS - Ecuador : 990",
+            "server": "38.165.231.25",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇹🇼 25 - SS - Taiwan : 990",
+            "server": "38.54.107.101",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇦🇺 26 - SS - Australia : 990",
+            "server": "45.15.185.70",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇬🇧 27 - SS - United Kingdom : 990",
+            "server": "62.100.205.100",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇯🇵 28 - SS - Japan : 990",
+            "server": "103.106.228.247",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇦🇪 29 - SS - United Arab Emirates : 990",
+            "server": "103.57.251.240",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇮🇳 30 - SS - India : 990",
+            "server": "103.97.203.227",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇵🇪 31 - SS - Peru : 990",
+            "server": "138.186.143.32",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇦🇪 32 - SS - United Arab Emirates : 990",
+            "server": "147.78.0.182",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇧🇭 33 - SS - Bahrain : 990",
+            "server": "154.205.146.153",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇵🇰 34 - SS - Pakistan : 990",
+            "server": "156.59.243.6",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇮🇹 35 - SS - Italy : 990",
+            "server": "176.126.83.158",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇳🇴 36 - SS - Norway : 990",
+            "server": "185.213.23.63",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇵🇷 37 - SS - Puerto Rico : 990",
+            "server": "185.47.255.22",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇲🇦 38 - SS - Morocco : 990",
             "server": "188.214.157.30",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -586,7 +646,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇦🇷 34 - SS - Argentina : 990",
+            "tag": "🇦🇷 39 - SS - Argentina : 990",
             "server": "190.103.176.32",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -594,7 +654,15 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇨🇦 35 - SS - Canada : 990",
+            "tag": "🇮🇹 40 - SS - Italy : 990",
+            "server": "212.102.54.45",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇨🇦 41 - SS - Canada : 990",
             "server": "23.95.76.59",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -602,7 +670,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇦🇹 36 - SS - Austria : 990",
+            "tag": "🇦🇹 42 - SS - Austria : 990",
             "server": "37.235.56.69",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -610,7 +678,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇧🇷 37 - SS - Brazil : 990",
+            "tag": "🇧🇷 43 - SS - Brazil : 990",
             "server": "38.54.57.90",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -618,7 +686,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇪🇬 38 - SS - Egypt : 990",
+            "tag": "🇪🇬 44 - SS - Egypt : 990",
             "server": "38.54.59.180",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -626,7 +694,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇧🇬 39 - SS - Bulgaria : 990",
+            "tag": "🇧🇬 45 - SS - Bulgaria : 990",
             "server": "38.60.247.151",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -634,7 +702,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇩🇪 40 - SS - Germany : 990",
+            "tag": "🇩🇪 46 - SS - Germany : 990",
             "server": "38.60.250.107",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -642,7 +710,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇸🇬 41 - SS - Singapore : 990",
+            "tag": "🇸🇬 47 - SS - Singapore : 990",
             "server": "38.89.142.56",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -650,7 +718,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇰🇿 42 - SS - Kazakhstan : 990",
+            "tag": "🇰🇿 48 - SS - Kazakhstan : 990",
             "server": "45.159.250.190",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -658,7 +726,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇲🇰 43 - SS - Macedonia : 990",
+            "tag": "🇲🇰 49 - SS - North Macedonia : 990",
             "server": "46.183.185.37",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -666,7 +734,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇨🇦 44 - SS - Canada : 990",
+            "tag": "🇨🇦 50 - SS - Canada : 990",
             "server": "79.127.200.169",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -674,7 +742,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇨🇾 45 - SS - Cyprus : 990",
+            "tag": "🇨🇾 51 - SS - Cyprus : 990",
             "server": "91.148.135.31",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -682,7 +750,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇸🇬 46 - SS - Singapore : 990",
+            "tag": "🇸🇬 52 - SS - Singapore : 990",
             "server": "95.173.218.203",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -690,7 +758,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇭🇰 47 - SS - Hong Kong : 443",
+            "tag": "🇭🇰 53 - SS - Hong Kong : 443",
             "server": "194.246.114.101",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -698,7 +766,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇸🇮 48 - SS - Slovenia : 443",
+            "tag": "🇸🇮 54 - SS - Slovenia : 443",
             "server": "45.83.131.43",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -706,7 +774,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇩🇪 49 - SS - Germany : 443",
+            "tag": "🇩🇪 55 - SS - Germany : 443",
             "server": "87.121.162.249",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -714,7 +782,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇨🇦 50 - SS - Canada : 80",
+            "tag": "🇨🇦 56 - SS - Canada : 80",
             "server": "142.4.216.225",
             "server_port": 80,
             "method": "chacha20-ietf-poly1305",
@@ -722,7 +790,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇨🇦 51 - SS - Canada : 80",
+            "tag": "🇨🇦 57 - SS - Canada : 80",
             "server": "ca225.vpnbook.com",
             "server_port": 80,
             "method": "chacha20-ietf-poly1305",
@@ -730,23 +798,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇰🇿 52 - SS - Kazakhstan : 28212",
-            "server": "31.3.209.183",
-            "server_port": 28212,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Kmn7dHPw5wNfkqQMPcGWQA"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇸🇪 53 - SS - Sweden : 30604",
-            "server": "78.40.116.165",
-            "server_port": 30604,
-            "method": "chacha20-ietf-poly1305",
-            "password": "MryXRyZ9MYr49y2OvEYVRq"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇧 54 - SS - United Kingdom : 8443",
+            "tag": "🇬🇧 58 - SS - United Kingdom : 8443",
             "server": "51.195.203.247",
             "server_port": 8443,
             "method": "chacha20-ietf-poly1305",
@@ -754,7 +806,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇷🇴 55 - SS - Romania : 443",
+            "tag": "🇷🇴 59 - SS - Romania : 443",
             "server": "5.182.37.87",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -762,7 +814,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇮🇹 56 - SS - Italy : 443",
+            "tag": "🇮🇹 60 - SS - Italy : 443",
             "server": "176.126.83.121",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -770,7 +822,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 57 - SS - Netherlands : 8080",
+            "tag": "🇳🇱 61 - SS - The Netherlands : 8080",
             "server": "193.29.139.199",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
@@ -778,15 +830,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇸 58 - SS - United States : 8080",
-            "server": "45.87.175.154",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "QCXDxuDlTTMD7jtgHUjIoj"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 59 - SS - United States : 8080",
+            "tag": "🇺🇸 62 - SS - United States : 8080",
             "server": "45.87.175.199",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
@@ -794,7 +838,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 60 - SS - Netherlands : 443",
+            "tag": "🇳🇱 63 - SS - The Netherlands : 443",
             "server": "92.112.126.90",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -802,7 +846,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 61 - SS - Netherlands : 443",
+            "tag": "🇳🇱 64 - SS - The Netherlands : 443",
             "server": "switcher-nick-croquet.freesocks.work",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -810,7 +854,15 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇩🇰 62 - SS - Denmark : 443",
+            "tag": "🇳🇱 65 - SS - Netherlands : 55702",
+            "server": "77.238.224.29",
+            "server_port": 55702,
+            "method": "chacha20-ietf-poly1305",
+            "password": "S2QudBxi0vRySw4YRLloPq"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇩🇰 66 - SS - Denmark : 443",
             "server": "95.164.10.228",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -818,15 +870,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇩🇰 63 - SS - Denmark : 443",
-            "server": "95.164.10.228",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "SDaFISr3Gfm6YkBSSrFIEwwWjEEU7Xbo"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇦🇺 64 - SS - Australia : 443",
+            "tag": "🇦🇺 67 - SS - Australia : 443",
             "server": "95.111.222.113",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -834,7 +878,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇮🇹 65 - SS - Italy : 443",
+            "tag": "🇮🇹 68 - SS - Italy : 443",
             "server": "38.180.195.193",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -842,7 +886,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇮🇹 66 - SS - Italy : 443",
+            "tag": "🇮🇹 69 - SS - Italy : 443",
             "server": "promo19v.bystrivpn.ru",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -850,15 +894,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇦 67 - SS - Ukraine : 443",
-            "server": "138.124.67.26",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "UdKq4itZdbbvsy0PCHTEUi"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇷🇺 68 - SS - Russia : 5112",
+            "tag": "🇷🇺 70 - SS - Russia : 5112",
             "server": "90.156.203.62",
             "server_port": 5112,
             "method": "chacha20-ietf-poly1305",
@@ -866,7 +902,15 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 69 - SS - The Netherlands : 56689",
+            "tag": "🇩🇪 71 - SS - Germany : 7048",
+            "server": "h110vpnde.outlinekeys.net",
+            "server_port": 7048,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Y52dYtnOWIKtbVTMcmhACO"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇳🇱 72 - SS - The Netherlands : 56689",
             "server": "109.71.246.210",
             "server_port": 56689,
             "method": "chacha20-ietf-poly1305",
@@ -874,7 +918,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇦🇪 70 - SS - United Arab Emirates : 443",
+            "tag": "🇦🇪 73 - SS - United Arab Emirates : 443",
             "server": "95.174.68.33",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -882,48 +926,24 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇮🇳 71 - SS - India : 25578",
-            "server": "45.88.183.124",
-            "server_port": 25578,
+            "tag": "🇳🇱 74 - SS - Netherlands : 8444",
+            "server": "185.82.73.212",
+            "server_port": 8444,
             "method": "chacha20-ietf-poly1305",
-            "password": "bCZLsl80SLLqkljWS7yRk8"
+            "password": "_bypfvq6ra7g4n5yCCR9DoVeGya2XUUS"
         },
         {
             "type": "shadowsocks",
-            "tag": "🇳🇱 72 - SS - Netherlands : 8080",
-            "server": "193.29.139.179",
-            "server_port": 8080,
+            "tag": "🇺🇸 75 - SS - United States : 40565",
+            "server": "imap.roomyinmita.name",
+            "server_port": 40565,
             "method": "chacha20-ietf-poly1305",
-            "password": "cvII85TrW6n0OGyfpHVS1u"
+            "password": "akvJQzZCaTdisSyuSy3aRmyvKC53X1d3PaAsb9xU8n5TY9hSB1DK5e6SPm921igHcRsCTCvf1pWufTJ5Li8PiiQG4vYdyyM7"
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇸 73 - SS - United States : 8080",
-            "server": "45.87.175.154",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cvII85TrW6n0OGyfpHVS1u"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 74 - SS - United States : 8080",
-            "server": "45.87.175.166",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cvII85TrW6n0OGyfpHVS1u"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 75 - SS - United States : 8080",
-            "server": "45.87.175.171",
-            "server_port": 8080,
-            "method": "chacha20-ietf-poly1305",
-            "password": "cvII85TrW6n0OGyfpHVS1u"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 76 - SS - United States : 8080",
-            "server": "45.87.175.177",
+            "tag": "🇳🇱 76 - SS - Netherlands : 8080",
+            "server": "193.29.139.189",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "cvII85TrW6n0OGyfpHVS1u"
@@ -931,7 +951,7 @@
         {
             "type": "shadowsocks",
             "tag": "🇺🇸 77 - SS - United States : 8080",
-            "server": "45.87.175.178",
+            "server": "45.87.175.154",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "cvII85TrW6n0OGyfpHVS1u"
@@ -939,7 +959,7 @@
         {
             "type": "shadowsocks",
             "tag": "🇺🇸 78 - SS - United States : 8080",
-            "server": "45.87.175.187",
+            "server": "45.87.175.171",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "cvII85TrW6n0OGyfpHVS1u"
@@ -947,7 +967,7 @@
         {
             "type": "shadowsocks",
             "tag": "🇺🇸 79 - SS - United States : 8080",
-            "server": "45.87.175.192",
+            "server": "45.87.175.177",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "cvII85TrW6n0OGyfpHVS1u"
@@ -955,6 +975,22 @@
         {
             "type": "shadowsocks",
             "tag": "🇺🇸 80 - SS - United States : 8080",
+            "server": "45.87.175.187",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cvII85TrW6n0OGyfpHVS1u"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇺🇸 81 - SS - United States : 8080",
+            "server": "45.87.175.192",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "cvII85TrW6n0OGyfpHVS1u"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇺🇸 82 - SS - United States : 8080",
             "server": "45.87.175.193",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
@@ -962,7 +998,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇫🇮 81 - SS - Finland : 443",
+            "tag": "🇫🇮 83 - SS - Finland : 443",
             "server": "38.244.136.233",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -970,7 +1006,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇫🇮 82 - SS - Finland : 443",
+            "tag": "🇫🇮 84 - SS - Finland : 443",
             "server": "promo18v.bystrivpn.ru",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
@@ -978,7 +1014,7 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇻🇳 83 - SS - Vietnam : 990",
+            "tag": "🇻🇳 85 - SS - Vietnam : 990",
             "server": "103.163.218.2",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
@@ -986,111 +1022,97 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇺🇸 84 - SS - United States : 990",
+            "tag": "🇺🇸 86 - SS - United States : 990",
             "server": "104.192.226.106",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "type": "vmess",
-            "tag": "🇧🇷 1 - VMess - Brazil : 80",
-            "server": "95.164.4.88",
-            "server_port": 80,
-            "uuid": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/vmess/",
-                "headers": {
-                    "Host": ""
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
+            "type": "shadowsocks",
+            "tag": "🇮🇳 87 - SS - India : 990",
+            "server": "134.209.147.198",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇨🇾 88 - SS - Cyprus : 990",
+            "server": "134.255.210.49",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇨🇷 89 - SS - Costa Rica : 990",
+            "server": "145.14.131.37",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇮🇩 90 - SS - Indonesia : 990",
+            "server": "154.205.159.100",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇲🇹 91 - SS - Malta : 990",
+            "server": "171.22.254.17",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇷🇴 92 - SS - Romania : 990",
+            "server": "185.126.237.38",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇵🇹 93 - SS - Portugal : 990",
+            "server": "185.231.233.173",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇵🇹 94 - SS - Portugal : 990",
+            "server": "185.231.233.173",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇵🇪 95 - SS - Peru : 990",
+            "server": "185.47.252.251",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3"
         },
         {
             "type": "vmess",
-            "tag": "🇭🇰 2 - VMess - Hong Kong : 5689",
-            "server": "47.243.213.247",
-            "server_port": 5689,
-            "uuid": "a99d08eb-81c5-4944-ba16-4461bb2ec808",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/arki",
-                "headers": {
-                    "Host": ""
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇨🇦 3 - VMess - Canada : 80",
-            "server": "15.235.41.200",
-            "server_port": 80,
-            "uuid": "58fe1542-5290-40ad-815a-77707a81afe5",
-            "security": null,
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/IOebhLMhl1CTbFHbL95myfRX2",
-                "headers": {
-                    "Host": "google.com"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇰🇷 4 - VMess - Republic of Korea : 443",
+            "tag": "🇰🇷 1 - VMess - South Korea : 443",
             "server": "seoul03.zgjok.com",
             "server_port": 443,
             "uuid": "72a0dac4-9689-4a57-b164-5c65bfa94772",
-            "security": null,
+            "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
                     "Host": "seoul03.zgjok.com"
-                }
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": null,
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "record_fragment": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇰🇷 5 - VMess - Republic of Korea : 443",
-            "server": "seoul03.zgjok.com",
-            "server_port": 443,
-            "uuid": "72a0dac4-9689-4a57-b164-5c65bfa94772",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": null
                 }
             },
             "tls": {
@@ -1109,158 +1131,22 @@
         },
         {
             "type": "vmess",
-            "tag": "🇺🇸 6 - VMess - United States : 59807",
-            "server": "38.14.99.179",
-            "server_port": 59807,
-            "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-            "security": null,
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇹🇷 7 - VMess - Turkey : 39651",
-            "server": "45.89.52.207",
-            "server_port": 39651,
-            "uuid": "ac4c12c5-45f2-4398-a718-9983941ede2b",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇩🇪 8 - VMess - Germany : 21639",
-            "server": "46.224.77.158",
-            "server_port": 21639,
-            "uuid": "00c95086-613c-4278-bd8f-e61e31548e61",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 9 - VMess - United States : 12056",
-            "server": "47.253.197.26",
-            "server_port": 12056,
-            "uuid": "dd7be7f1-38ff-45e6-f1e5-b20c2190f527",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇪🇸 10 - VMess - Spain : 40433",
-            "server": "208.76.223.218",
-            "server_port": 40433,
-            "uuid": "d8fd8955-78db-49ba-d86f-3e4729f6ac4d",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇺🇸 11 - VMess - United States : 443",
-            "server": "209.126.84.189",
-            "server_port": 443,
-            "uuid": "2c981164-9b93-4bca-94ff-b78d3f8498d7",
+            "tag": "🇨🇦 2 - VMess - Canada : 2083",
+            "server": "hgtrojan.zabc.net",
+            "server_port": 2083,
+            "uuid": "e6395c20-4571-4b34-d6b1-55a5d36e49ea",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
-                "path": "/vmessws",
+                "path": "/e6395c20",
                 "headers": {
-                    "Host": "209.126.84.189"
-                }
-            },
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇧🇷 12 - VMess - Brazil : 38039",
-            "server": "38.180.16.86",
-            "server_port": 38039,
-            "uuid": "244a3464-1269-43b3-b491-4dc2713eb3f6",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇧🇷 13 - VMess - Brazil : 36104",
-            "server": "38.180.16.86",
-            "server_port": 36104,
-            "uuid": "E146A8CB-9D2F-449C-ADCA-8736FB",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇧🇷 14 - VMess - Brazil : 36236",
-            "server": "38.180.16.86",
-            "server_port": 36236,
-            "uuid": "a58bc1a5-8c18-49ff-9453-c331b52f45dc",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇫🇮 15 - VMess - Finland : 7443",
-            "server": "a.confignor.site",
-            "server_port": 7443,
-            "uuid": "beb2aec6-a321-4e45-8486-4dcf82066975",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇳🇱 16 - VMess - Netherlands : 443",
-            "server": "cg1c13.waimaojd.com",
-            "server_port": 443,
-            "uuid": "091e7354-f07f-44aa-a443-4ad43f51a9f9",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/api/v1/graphql",
-                "headers": {
-                    "Host": "cg1c13.waimaojd.com"
+                    "Host": "hgtrojan.zabc.net"
                 }
             },
             "tls": {
                 "enabled": true,
-                "server_name": "cg1c13.waimaojd.com",
+                "server_name": "",
                 "insecure": false,
                 "alpn": [
                     "http/1.1"
@@ -1274,21 +1160,244 @@
         },
         {
             "type": "vmess",
-            "tag": "🇩🇪 17 - VMess - Germany : 100",
-            "server": "cpanel.navar2.ir",
-            "server_port": 100,
-            "uuid": "bbecd967-a6d2-4766-910e-fd84a8b71809",
+            "tag": "🇮🇷 3 - VMess - Iran : 28036",
+            "server": "5.202.5.130",
+            "server_port": 28036,
+            "uuid": "65a6db91-0081-4cc8-9bc4-7070de93baed",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇧🇷 4 - VMess - Brazil : 80",
+            "server": "95.164.4.88",
+            "server_port": 80,
+            "uuid": "c04c3b34-70fd-4fec-963e-c12d09f36bef",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/vmess/",
+                "headers": {
+                    "Host": ""
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 5 - VMess - Hong Kong : 80",
+            "server": "e66ecabe-t7h340-tq9o8d-1d3bw.hkt.gotochinatown.net",
+            "server_port": 80,
+            "uuid": "0fcf5a7a-e1b7-11ec-a352-f23c91cfbbc9",
+            "security": "auto",
+            "alter_id": 2,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "e66ecabe-t7h340-tq9o8d-1d3bw.hkt.gotochinatown.net"
+                }
+            },
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 6 - VMess - Hong Kong : 30830",
+            "server": "v30.hdacd.com",
+            "server_port": 30830,
+            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "security": null,
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 7 - VMess - Hong Kong : 30829",
+            "server": "v29.hdacd.com",
+            "server_port": 30829,
+            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "security": "auto",
+            "alter_id": 2,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 8 - VMess - Hong Kong : 30836",
+            "server": "v36.hdacd.com",
+            "server_port": 30836,
+            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "security": null,
+            "alter_id": 2,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 9 - VMess - Hong Kong : 30808",
+            "server": "v8.hdacd.com",
+            "server_port": 30808,
+            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "security": "auto",
+            "alter_id": 2,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇭🇰 10 - VMess - Hong Kong : 30807",
+            "server": "v10.hdacd.com",
+            "server_port": 30807,
+            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
+            "security": "auto",
+            "alter_id": 2,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇮🇳 11 - VMess - India : 550",
+            "server": "103.97.203.220",
+            "server_port": 550,
+            "uuid": "9e0e83ca-0fbc-44b1-8024-0eb8f9414156",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇹🇭 12 - VMess - Thailand : 443",
+            "server": "n1749032917.kzxds.cn",
+            "server_port": 443,
+            "uuid": "cd66eeea-643f-4826-a4f3-0d2f57a5ad06",
             "security": "auto",
             "alter_id": 0,
             "transport": {
                 "type": "ws",
                 "path": "/",
                 "headers": {
-                    "Host": "uploadboy.com"
+                    "Host": "n1749032917.kzxds.cn"
                 }
             },
             "tls": {
+                "enabled": true,
+                "server_name": "n1749032917.kzxds.cn",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 13 - VMess - United States : 443",
+            "server": "4bB6-B667-F88608D19FD5.664.qZz.io",
+            "server_port": 443,
+            "uuid": "0507fbcd-b983-43a7-8e1d-2c561960ad4f",
+            "security": null,
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/pyyY4ZVTyJV3vr9noOhn",
+                "headers": {
+                    "Host": "4bb6-B667-F88608d19FD5.664.QZz.IO"
+                }
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇹🇷 14 - VMess - Turkey : 39651",
+            "server": "45.89.52.207",
+            "server_port": 39651,
+            "uuid": "ac4c12c5-45f2-4398-a718-9983941ede2b",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
                 "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇺🇸 15 - VMess - United States : 12056",
+            "server": "47.253.197.26",
+            "server_port": 12056,
+            "uuid": "dd7be7f1-38ff-45e6-f1e5-b20c2190f527",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇨🇦 16 - VMess - Canada : 443",
+            "server": "172.66.40.99",
+            "server_port": 443,
+            "uuid": "305e9e74-dc3a-11f0-84da-abeeaa5a5248",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/vpnjantit?telegram-id---v2box-v2/www.speedtest.net:443?ed=2048",
+                "headers": {
+                    "Host": "turkye.looloolooloo.com"
+                }
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "",
+                "insecure": false,
+                "alpn": [
+                    "http/1.1"
+                ],
+                "record_fragment": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
             }
         }
     ],
